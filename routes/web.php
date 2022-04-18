@@ -15,6 +15,31 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/news', function () {
-    return view('MajorEvents');
+Route::get('/milestones', function () {
+    return view('milestones');
+});
+
+Route::get('/problems', function () {
+    //pending
+});
+
+Route::get('/problems/{probID}', function ($probID) {
+    //pending
+});
+
+Route::get('/discussions', function () {
+    //pending
+});
+
+Route::get('/discussions/{discID}', function ($discID) {
+    //pending
+});
+
+
+Route::get('/projects', function () {
+    //pending
+});
+
+Route::get('/projects/{projID}', function () {
+    //pending
 });
