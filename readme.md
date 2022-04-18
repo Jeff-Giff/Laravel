@@ -33,4 +33,4 @@ Users are ranked based on points which they gain through []. More information ca
 
 Administrators are users who have additional powers which include warning users, muting users, tagging posts and deleting posts. All these actions can only be taken when two moderators have agreed to do so.
 ## How should I code?
-We use Laravel.
+We use Laravel and Vue.
