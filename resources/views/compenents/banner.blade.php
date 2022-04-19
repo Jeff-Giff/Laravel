@@ -8,6 +8,7 @@
 </head>
 <body>
     <div id="banner">
+        <div class="nav">PROBLEMS</div><div class="nav">DISCUSSIONS</div><div class="nav">PROJECTS</div><div class="nav">HOME</div><div class="nav">ADD POST</div>
     </div>
     {!! $content !!}
 </body>
