@@ -1,2 +1,0 @@
-<x-banner>
-</x-banner>
