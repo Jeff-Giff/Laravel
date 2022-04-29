@@ -1,0 +1,58 @@
+@media (min-width:25cm)
+{
+    #bar
+    {
+        width: 80%;
+        height: 0.8cm;
+        margin-left: 10%;
+        margin-top: 0.8cm;
+        background-color: #39f;
+        border-radius: 0.5cm 0.5cm 0 0;
+        box-shadow: 3px 3px 3px 0 #26a;
+        display: inline-block;
+    }
+    h3,#body
+    {
+        background-color: #fff;
+
+        box-shadow: 3px 3px 3px 0 #aaa;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 10%;
+    }
+    h3
+    {
+        width: 80%;
+        font-size: 0.8cm;    
+        font-family: 'Raleway', sans-serif;
+    }
+    #body
+    {
+        font-family: Roboto;
+        padding-left: 5%;
+        padding-right: 22%;
+        width: 53%;
+        font-size: 0.45cm;
+        
+        display: inline-block;
+    }
+    .s
+    {
+        width: 16%;
+        padding-left: 2%;
+        position: absolute;
+        right: 12%;
+
+        background-color: #ccc;
+        box-shadow: 3px 3px 3px 0 #888;
+    }
+    .s:hover
+    {
+        margin-left: 12%;
+    
+    }
+    #a{top: 5cm;}
+    #b{top: 6cm;}
+    #c{top: 7cm;}
+    #d{top: 8cm;}
+}
